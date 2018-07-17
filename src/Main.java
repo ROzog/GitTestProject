@@ -7,7 +7,7 @@ public class Main {
         int a=7;
         int b=2;
         System.out.println(a*b);
-
+//kkjkkk
         int a=111111;
         int b=3243434;
 
