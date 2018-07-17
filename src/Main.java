@@ -4,12 +4,11 @@ public class Main {
         System.out.println("coz za piekny tekst :P");
         System.out.println("Wiem :D");
         System.out.println("vbsayughv");
-        int a=7;
-        int b=2;
-        System.out.println(a*b);
-//kkjkkk
         int a=111111;
         int b=3243434;
+        System.out.println(a*b);
+//kkjkkk
+
 
     }
 }
