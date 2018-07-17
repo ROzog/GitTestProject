@@ -5,5 +5,8 @@ public class Main {
         System.out.println("Wiem :D");
         System.out.println("vbsayughv");
 
+        int a=111111;
+        int b=3243434;
+
     }
 }
